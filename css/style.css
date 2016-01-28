@@ -11,6 +11,7 @@ div{
 	width:25%;
 	font-size: 105%;
 	margin-bottom: 2%;
+	display: inline-block;
 }
 .pdl5{
 	padding-left: 2%;
