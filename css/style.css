@@ -1,24 +1,40 @@
-.amarillo {
-	background-color: yellow;
+.color1 {
+	background-color: #00e600;
+	border: 4px dotted #0099ff;
+	border-radius: 30%;
+	font-family: sans-serif;
+	text-shadow: 2px 2px #ffffff; 
 }
 
-.rojo {
-	background-color: red;
+.color2 {
+	background-color: #0099ff;
+	border: 4px dotted #00e600;
+	border-radius: 30%;
+	font-family: sans-serif;
+	text-shadow: 2px 2px #ffffff;
 }
 
 div{
 	height: 25%;
 	width:25%;
 	font-size: 105%;
-	margin-bottom: 2%;
-	display: inline-block;
+	margin: 2% .2% 2% .2% ;
+	display: inline;
 }
 .pdl5{
-	padding-left: 2%;
+	padding:.5%;
 }
 .pdt5{
-	padding-top: 2%;
+	padding-top: .5%;
 }
 .may{
 	text-transform: uppercase;
+}
+p{
+	font-family: sans-serif;
+	display: inline;
+	text-shadow: 2px 2px #ffffff;
+}
+body {
+	background-image: url("http://image.naldzgraphics.net/2012/04/4-aircontion.jpg");
 }
